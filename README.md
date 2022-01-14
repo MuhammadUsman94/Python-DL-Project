@@ -1,4 +1,4 @@
-# Python-DL-Project
+# Covid-19 Detection Using Deep Learning Model
 This repo is for python deep learning project
 
 ````````
